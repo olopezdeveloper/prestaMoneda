@@ -1,0 +1,9 @@
+.rj-price-c  {
+    display: initial !important; 
+}
+.product-price,#our_price_display,#old_price_display {
+    display: none;
+}
+.product-meta .rj-price-c .price-datail-product{
+	display: none;
+}
